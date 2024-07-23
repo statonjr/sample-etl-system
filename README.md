@@ -9,6 +9,14 @@ A simple extract, transform, and load system using Kiba. This system reads extra
 - Ruby (see `.ruby-version`)
 - Bundler (`gem install bunder`)
 
+### Setup
+
+Generate a sample CSV file
+
+```
+rake setup:csv_file
+```
+
 ### Running
 
 ```
